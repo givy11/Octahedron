@@ -9,4 +9,4 @@ Backend - Handmade API + IMDB
 [Дмитрий Гурьянов](https://github.com/givy11)
 
 ## Экраны
-![GitHub Logo](/images/logo.png)
+![Screen plan](/images/screen.jpg)
